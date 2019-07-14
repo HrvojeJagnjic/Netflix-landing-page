@@ -299,6 +299,12 @@ img {
     transform: translate(0);
   }
 
-  .showcase-content {
+  .showcase-content h1 {
+    font-size: 3.7rem;
+    line-height: 1;
+  }
+
+  .showcase-content p {
+    font-size: 1.5rem;
   }
 }
